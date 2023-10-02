@@ -18,8 +18,8 @@
     "skipDefaultLibCheck": true,
     "baseUrl": ".",
     "paths": {
-      "@devgen-executable-one/common/ui": [
-        "libs/common/ui/src/index.ts"
+      "@devgen-executable-one/home": [
+        "libs/home/src/index.ts"
       ]
     }
   },
