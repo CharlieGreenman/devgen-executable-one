@@ -27,7 +27,8 @@
     "@nx/angular": "16.7.4",
     "@fortawesome/fontawesome-svg-core": "6.4.0",
     "@fortawesome/free-solid-svg-icons": "6.4.0",
-    "@fortawesome/angular-fontawesome": "0.13.0"
+    "@fortawesome/angular-fontawesome": "0.13.0",
+    "angular": "16.1.0"
   },
   "devDependencies": {
     "@angular-devkit/build-angular": "16.2.0",
